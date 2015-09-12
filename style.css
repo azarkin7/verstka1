@@ -1,0 +1,130 @@
+@import url(https://fonts.googleapis.com/css?family=Play);
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
+.show1{
+	height: 594px;
+	background-color: #87509c;
+}
+.row1{
+	margin-top: 60px;
+}
+h1{
+	color: white;
+	font-size:250%;
+}
+h1.bluezag{
+	text-align: center;
+	color:#3c4761;
+}
+.zag{
+
+}
+.row2{
+	text-align: center;
+	margin-top: 150px;
+}
+
+.logo{
+	text-align: center;
+}
+.show2{
+	min-height: 740px;
+	background-color:#17c2a4;
+}
+.row21{
+	margin-top: 115px;
+	text-align: center;
+	opacity: 0;
+}
+.sh3{
+	opacity: 0;
+}
+.bgg{
+	background-color: red;
+	min-height: 200px;
+}
+.branding{
+
+	
+}
+.servblock{
+	margin-top: 75px;
+}
+.servblock p.titleserv{
+	text-align: center;
+	font-size:150%;
+	margin-top: 57px;
+	text-transform: uppercase;
+	color: white;
+}
+.otzblock{
+	margin-top: 75px;
+}
+.otzblock p.titleotz{
+	text-align: center;
+	font-size:150%;
+	margin-top: 40px;
+	text-transform: uppercase;
+	color: #27283d;
+}
+.pos{
+	color:#30bae7;
+	font-size:120%;
+}
+.textst{
+	text-align: center;
+	font-size:110%;
+	color:#3c4761;
+}
+.line{
+	height: 4px;
+	width: 87px;
+	background-color: #14a58c;
+	margin: 0px auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+h3{
+	color: white;
+	text-align: center;
+	font-size: 150%;
+}
+.smallzagblue{
+	color:#3c4761;
+}
+.row21 p.zag1{
+	color: white;
+	font-size: 200%;
+}
+.show3{
+	background-color: #e7f1f8;
+	min-height: 900px;
+	padding-top: 115px;
+}
+.show4{
+	background-color: #FFF;
+	height: 655px;
+}
+ul#menudesk{
+	list-style: none;
+	float: right;
+}
+ul#menudesk li{
+	display: inline-block;
+	min-width:75px;
+	height: 34px;
+	border-radius: 5px;
+	text-align: center;
+	padding: 5px 16px;
+}
+ul#menudesk li a{
+	color: white;
+	text-transform: uppercase;
+font-family: 'Play', sans-serif;
+}
+ul#menudesk li:hover{
+	background-color: #643a79;
+}
+p.textserv{
+	color: white;
+	font-size: 110%;
+}
